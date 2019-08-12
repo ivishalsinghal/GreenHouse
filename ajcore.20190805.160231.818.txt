@@ -5,7 +5,7 @@ Dump file: ajcore.20190805.160231.818.txt
 Dump reason: org.aspectj.apache.bcel.classfile.ClassFormatException
 Dump on exception: true
 Dump at exit condition: abort
----- Exception Information ---
+---- Exception Bug Information ---
 org.aspectj.apache.bcel.classfile.ClassFormatException: File: 'java/lang/CharSequence.class': Invalid byte tag in constant pool: 15
 	at org.aspectj.apache.bcel.classfile.ClassParser.readConstantPool(ClassParser.java:192)
 	at org.aspectj.apache.bcel.classfile.ClassParser.parse(ClassParser.java:131)
