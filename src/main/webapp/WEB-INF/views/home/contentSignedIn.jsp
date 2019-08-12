@@ -7,7 +7,7 @@
 		Welcome to the largest Organic Retail Store in Australia and New Zealand .
 	</p>
 	<p>
-		Please login and Order Organic food from the nature's basket. We ship across ANZ. 
+		Please login and Order Organic food from the nature's basket. We ship across ANZ 
 	</p>
 	
 		
