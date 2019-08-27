@@ -662,5 +662,5 @@
 		</snapshotRepository>
 	</distributionManagement>
 
-	<version>7</version>
+	<version>10</version>
 </project>
