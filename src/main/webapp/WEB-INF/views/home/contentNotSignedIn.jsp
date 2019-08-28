@@ -9,5 +9,5 @@
 	<p>
 		Please login and Order Organic food from the nature's basket. We ship across ANZ.	
 	</p>
-	<img src="./image1.png" alt="Flowers in China" width="460" height="345">
+	
 </div>
