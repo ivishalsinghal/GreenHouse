@@ -38,4 +38,7 @@
 <form id="linkedin_signin" action="<c:url value="/signin/linkedin" />" method="post">
 	<button type="submit">Sign in with LinkedIn</button>
 </form>
+<form id="PayPal_signin" action="<c:url value="/signin/PayPal" />" method="post">
+	<button type="submit">Sign in with Paypal</button>
+</form>
 </c:if>
