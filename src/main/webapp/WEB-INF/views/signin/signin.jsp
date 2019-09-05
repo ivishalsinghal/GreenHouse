@@ -28,7 +28,7 @@
 </form>
 
 
-<%-- <c:if test="${!currentDevice.mobile}">
+<c:if test="${!currentDevice.mobile}">
 <form id="facebook_signin" action="<c:url value="/signin/facebook" />" method="post">
 	<button type="submit">Sign in with Facebook</button>
 </form>
@@ -41,4 +41,4 @@
 <form id="PayPal_signin" action="<c:url value="/signin/PayPal" />" method="post">
 	<button type="submit">Sign in with Paypal</button>
 </form>
-</c:if> --%>
+</c:if>
