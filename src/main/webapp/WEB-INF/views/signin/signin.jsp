@@ -38,7 +38,7 @@
 <form id="linkedin_signin" action="<c:url value="/signin/linkedin" />" method="post">
 	<button type="submit">Sign in with LinkedIn</button>
 </form>
-<form id="Google_signin" action="<c:url value="/signin/Google" />" method="post">
+<%-- <form id="Google_signin" action="<c:url value="/signin/Google" />" method="post">
 	<button type="submit">Sign in with Google Account</button>
-</form>
+</form> --%>
 </c:if>
